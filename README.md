@@ -1,6 +1,7 @@
 ## Web Development   
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=plastic)
 ![CSS](https://img.shields.io/badge/-CSS-02569B?logo=css3&logoColor=white&style=plastic)  
+![PowerBI](https://img.shields.io/badge/-POWERBI-02569B?logo=powerbi&logoColor=white&style=plastic) 
 
 ### Languages 
 ![C#](https://img.shields.io/badge/-C%20SHARP-purple?logo=csharp&logoColor=white&style=plastic)
